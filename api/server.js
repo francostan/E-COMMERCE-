@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 const morgan = require("morgan");
 const routes = require("./routes");
-const db = require("./config");
+const db = require("./config/db");
 const PORT = 3001;
 const cookieParser = require("cookie-parser");
 
