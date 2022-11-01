@@ -1,6 +1,3 @@
-PROYECTO E-COMMERCE
-akjsdojkasdoksldkaslkdlaks
-
 akjsdojkasdoksldkaslkdlaksas
 da
 sd
