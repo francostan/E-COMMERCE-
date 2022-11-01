@@ -1,8 +1,5 @@
 PROYECTO E-COMMERCE
-akjsdojkasdoksldkaslkdlaks
+FRONT
 
-akjsdojkasdoksldkaslkdlaksas
-da
-sd
-akjsdojkasdoksldkaslkdlaksasd
-asd
+redux 01/11
+-Store global del user (fran)
